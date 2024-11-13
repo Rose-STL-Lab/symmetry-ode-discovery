@@ -2,6 +2,8 @@
 
 The official codebase for our paper (NeurIPS 2024 Poster), [Symmetry-Informed Governing Equation Discovery](https://arxiv.org/pdf/2405.16756).
 
+![pipeline](pipeline.jpg)
+
 ## Data preparation
 
 ### Option 1: download data
